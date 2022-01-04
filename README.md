@@ -2,7 +2,7 @@
 ⭐ A simple tetris game developed with freecodecamp. http://tetris-game.surge.sh/
 
 
-<h2>Objetivo</h2>
+<h2>Objective</h2>
 
 Fix JavaScript knowledge using:
 
